@@ -8,6 +8,7 @@ Group:		Applications
 Source0:	http://www.miek.nl/projects/hdup2/%{name}.tar.bz2
 # Source0-md5:	7795ac9dd5a1ae40d330a54b6a6e91a3
 URL:		http://miek.nl/projects/hdup2/index.html
+BuildRequires: glib2-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
