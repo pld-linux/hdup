@@ -1,5 +1,5 @@
 Summary:	hdup backup utility
-Summary(pl):	hdup - narzêdzie do kopii zapasowych
+Summary(pl.UTF-8):   hdup - narzÄ™dzie do kopii zapasowych
 Name:		hdup
 Version:	2.0.14
 Release:	1
@@ -17,12 +17,12 @@ The backup scheduling is done by means of a cronjob. Is supports a
 include/exclude mechanism, remote backups, encrypted backups and split
 backups (called chunks) to allow easy burning to CD/DVD.
 
-%description -l pl
-hdup2 to narzêdzie do wykonywania kopii zapasowych, którego celem jest
-uczyniæ wykonywanie tego zadania naprawdê prostym. Kolejkowanie kopii
-jest obs³ugiwane jako zadanie crona. hdup2 obs³uguje mechanizm
+%description -l pl.UTF-8
+hdup2 to narzÄ™dzie do wykonywania kopii zapasowych, ktÃ³rego celem jest
+uczyniÄ‡ wykonywanie tego zadania naprawdÄ™ prostym. Kolejkowanie kopii
+jest obsÅ‚ugiwane jako zadanie crona. hdup2 obsÅ‚uguje mechanizm
 include/exclude, zdalne kopie, szyfrowanie kopii i dzielenie kopii na
-czê¶ci, aby u³atwiæ wypalanie CD/DVD.
+czÄ™Å›ci, aby uÅ‚atwiÄ‡ wypalanie CD/DVD.
 
 %prep
 %setup -q
