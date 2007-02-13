@@ -1,5 +1,5 @@
 Summary:	hdup backup utility
-Summary(pl.UTF-8):   hdup - narzędzie do kopii zapasowych
+Summary(pl.UTF-8):	hdup - narzędzie do kopii zapasowych
 Name:		hdup
 Version:	2.0.14
 Release:	1
